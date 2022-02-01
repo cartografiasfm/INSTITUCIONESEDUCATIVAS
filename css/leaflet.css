@@ -344,7 +344,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 
 .leaflet-control-layers {
 	box-shadow: 0 1px 5px rgba(0,0,0,0.4);
-	background: #fff;
+	background: #1F78B4;
 	border-radius: 5px;
 	}
 .leaflet-control-layers-toggle {
@@ -371,7 +371,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 .leaflet-control-layers-expanded {
 	padding: 6px 10px 6px 6px;
 	color: #333;
-	background: #fff;
+	background: #1F78B4;
 	}
 .leaflet-control-layers-scrollbar {
 	overflow-y: scroll;
@@ -503,7 +503,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	}
 .leaflet-popup-content-wrapper,
 .leaflet-popup-tip {
-	background: #378dcb;
+	background: #1F78B4;
 	color: #555555;
 	box-shadow: 0 3px 14px rgba(0,0,0,0.4);
 	}
