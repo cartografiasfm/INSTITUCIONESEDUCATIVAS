@@ -1,13 +1,3 @@
-L.TileLegend = L.Class.extend({
-    includes: L.Mixin.Events,
-
-    initialize: function (map, tilelayer, container) {
-        this._map = map;
-        this._tilelayer = tilelayer;
-        this._data = tilelayer.options.legend;
-        this._container = container;
-        L.DomUtil.addClass(this._container, 'leaflet-control-tilelegend');
-
  var legend = {
     title: "HOT style",
     description: "Humanitarian focused OSM base layer.",
